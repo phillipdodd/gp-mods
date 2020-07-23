@@ -1,0 +1,9 @@
+{
+    "id": "yummybugs",
+    "name": "yummy bugs",
+    "desc": "They're bugs. Yummy!",
+    "icon": "bait_fish",
+    "stacksTo": 999,
+    "sell": 1,
+    "usableType": "UsableLua"
+}

@@ -1,0 +1,6 @@
+{
+    "id": "yummybugs",
+    "craftedFrom": "smallinsects: 1",
+    "craftingCommand": "Prepare",
+    "base": true
+}
