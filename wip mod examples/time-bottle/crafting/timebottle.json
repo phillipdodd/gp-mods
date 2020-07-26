@@ -1,0 +1,6 @@
+{
+    "id": "timebottle",
+    "craftedFrom": "bottle: 1",
+    "craftingCommand": "Prepare",
+    "base": true
+}

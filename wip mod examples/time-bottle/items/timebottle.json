@@ -1,0 +1,9 @@
+{
+    "id": "timebottle",
+    "name": "time bottle",
+    "desc": "It's bottle time!",
+    "icon": "bottle",
+    "stacksTo": 999,
+    "sell": 1,
+    "usableType": "UsableLua"
+}
