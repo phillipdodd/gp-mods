@@ -1,0 +1,12 @@
+{
+    "id" : "pinktrashcat_mail",
+    "relativeToId" : "gamestart",
+    "day" : 0,
+    "from" : "pinktrashcat",
+    "subject" : "Orb",
+    "letter" : "Orb",
+    "signature" : "Modding Corner",
+    "items" : "pinktrashcat_items_orb:10",
+	"seasonSpecific" : "summer, spring, fall, winter",
+    "repeatable" : "true"
+}

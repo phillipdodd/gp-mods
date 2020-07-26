@@ -1,0 +1,18 @@
+{
+    "id" : "pinktrashcat_items_orb",
+    "name" : "Orb",
+    "desc" : "Orb",
+    "icon" : "pinktrashcat_items_orb",
+    "requires": "",
+    "sell" : 1,
+    "stacksTo" : 10,
+    "vTemplate" : "pinktrashcat_items_orb",
+    "pickTemplate" : "pinktrashcat_items_orb",
+    "visualBind" :  "pinktrashcat_items_orb",
+    "usableType" : "UsableLua",
+    "usableVars" : "",
+	"hasGlitter" : false,
+    "alwaysLoad" : false,
+    "shoppable" : false,
+    "chestAvailable" : false
+}

@@ -1,0 +1,5 @@
+{
+    "id": "phil.item.portalgun",
+    "name": "portal gun",
+    "usableType": "UsableLua"
+}

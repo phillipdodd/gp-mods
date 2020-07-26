@@ -1,0 +1,10 @@
+{
+    "id": "phil.mail.portalgun",
+    "relativeToId": "gamestart",
+    "day": 0,
+    "from": "myself",
+    "subject": "hahaha",
+    "letter": "but the science gets done",
+    "signature": "x",
+    "items": "phil.item.portalgun : 1"
+}

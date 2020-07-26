@@ -1,0 +1,9 @@
+{
+    "id": "pd.item.bagofur",
+    "name": "Bag o' Fur",
+    "desc": "New meaning to the word 'furbag'",
+    "icon": "bagofur",
+    "stacksTo": 50,
+    "sell": 2050,
+    "usableType": "UsableLua"
+}

@@ -1,0 +1,6 @@
+{
+    "id": "extendedRabbit",
+    "name": "An Extended Rabbit",
+    "vTemplate": "extendedRabbit",
+    "usableType": "UsableCustom"
+}
