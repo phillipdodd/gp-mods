@@ -1,0 +1,10 @@
+{
+    "id": "pd.mail.test",
+    "relativeToId": "gamestart",
+    "day": 0,
+    "from": "pdodd",
+    "subject": "Time Bottle Test Kit",
+    "letter": "Go forth and test",
+    "signature": "Thank you!",
+    "items": "bottle: 1"
+}
